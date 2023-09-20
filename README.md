@@ -8,8 +8,6 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="left">Frontend</h3>
 
 ###
@@ -25,8 +23,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <h3 align="left">Backend</h3>
 
